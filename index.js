@@ -1,1 +1,1 @@
-module.exports = require('eosjs');
+module.exports = require('@arisencore/js');
